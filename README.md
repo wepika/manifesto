@@ -11,5 +11,5 @@
 ##Profiter
 - satisfaction tout au long de la chaine
 
-##L’équipe
+###L’équipe
 mai 2015
