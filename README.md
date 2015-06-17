@@ -1,5 +1,7 @@
 #The wepika manifesto v0.1
 
+![Logo of Wepika](https://octodex.github.com/images/yaktocat.png)
+
 ##Cultiver
 - notre expérience comme terreau de nos projets
 
