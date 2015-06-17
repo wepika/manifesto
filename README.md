@@ -1,15 +1,15 @@
-The wepika manifesto v0.1
+#The wepika manifesto v0.1
 
-Cultiver
+##Cultiver
 - notre expérience comme terreau de nos projets
 
-Délivrer
+##Délivrer
 - fabriquer la bonne chose -> edouard
 - fabriquer rapidement -> xavier
 - fabriquer de la bonne manière  -> chris, cindy, julien
 
-Profiter
+##Profiter
 - satisfaction tout au long de la chaine
 
-l’équipe
+##L’équipe
 mai 2015
